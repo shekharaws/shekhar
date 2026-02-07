@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **DevOps Enthusiasts**
 
-- 💬 Ask me about **AWS DevOps**
+- 💬 Ask me about **SRE / DevOps**
 
 - 📫 How to reach me **shekhargofficial@gmail.com**
 
