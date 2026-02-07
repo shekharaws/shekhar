@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shekhar Giri </h1>
-<h3 align="center">A Professional DevOps Engineer with 3.4 years of experience and I'm from India</h3>
+<h3 align="center">A Professional DevOps Engineer with 3+ years of experience and I'm from India</h3>
 
 - 🔭 I’m currently working as AWS DevOps Engineer
 
