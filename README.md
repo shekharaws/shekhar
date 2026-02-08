@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **DevOps Enthusiasts**
 
-- 💬 Ask me about **SRE / DevOps**
+- 💬 Ask me about **SRE / DevOps Engineer**
 
 - 📫 How to reach me **shekhargofficial@gmail.com**
 
