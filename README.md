@@ -1,4 +1,4 @@
-<h1 align="center">  Hi Folks 👋, I'm Giri Shekhar G </h1>
+<h1 align="center">  Hi Folks 👋, I'm Giri Shekhar Giri </h1>
 <h3 align="center">A Professional DevOps Engineer with 3+ years of experience and I'm from India</h3>
 
 - 🔭 I’m currently working as AWS DevOps Engineer
